@@ -46,6 +46,14 @@ The circuit connects the ESP32 with four LEDs and four push buttons for applianc
 ![Circuit Diagram](circuit-diagram.png)
 
 ---
+
+### 📱 App Interface
+
+Here’s a preview of the smart home automation app I built, showcasing the main interface used to monitor and control connected devices throughout the home.
+
+![Smart Home Automation App](ui.jpeg)
+
+---
 🎥 Project Demonstration
 
 The complete working demonstration of the Smart Home Automation system is available below.
